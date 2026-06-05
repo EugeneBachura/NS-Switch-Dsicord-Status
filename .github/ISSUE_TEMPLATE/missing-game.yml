@@ -1,0 +1,29 @@
+name: Missing game
+description: Request a Nintendo Switch or Nintendo Switch 2 game.
+title: "Missing game: "
+labels: ["game database"]
+body:
+  - type: input
+    id: game-title
+    attributes:
+      label: Game title
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - Nintendo Switch
+        - Nintendo Switch 2
+    validations:
+      required: true
+  - type: input
+    id: image-url
+    attributes:
+      label: Image URL
+      description: HTTPS only.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes

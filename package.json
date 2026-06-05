@@ -1,0 +1,98 @@
+{
+  "name": "ns-switch-dsicord-status",
+  "version": "0.1.5",
+  "description": "Discord status app for Nintendo Switch and Nintendo Switch 2.",
+  "main": "dist/main/main.js",
+  "author": "YOUR_NAME",
+  "license": "Apache-2.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"vite --host 127.0.0.1\" \"wait-on http://127.0.0.1:5173 && cross-env VITE_DEV_SERVER_URL=http://127.0.0.1:5173 electron .\"",
+    "build": "npm run build:icons && tsc -p tsconfig.main.json && vite build && electron-builder",
+    "build:icons": "node scripts/build-icons.mjs",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "discord-rpc": "^4.0.1",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.17",
+    "@types/react-dom": "^18.3.5",
+    "@typescript-eslint/eslint-plugin": "^8.18.1",
+    "@typescript-eslint/parser": "^8.18.1",
+    "concurrently": "^9.1.0",
+    "cross-env": "^7.0.3",
+    "electron": "^42.2.0",
+    "electron-builder": "^26.8.1",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "prettier": "^3.4.2",
+    "rcedit": "^5.0.2",
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.18.1",
+    "vite": "^6.0.5",
+    "vitest": "^4.1.7",
+    "wait-on": "^8.0.1"
+  },
+  "build": {
+    "appId": "com.nsswitchdiscordstatus.app",
+    "productName": "NS Switch Discord Status",
+    "executableName": "NS Switch Discord Status",
+    "directories": {
+      "output": "release"
+    },
+    "afterPack": "scripts/after-pack.mjs",
+    "compression": "maximum",
+    "files": [
+      "dist/**/*",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "data",
+        "to": "data"
+      },
+      {
+        "from": "assets/icon.png",
+        "to": "assets/icon.png"
+      },
+      {
+        "from": "assets/icon.ico",
+        "to": "assets/icon.ico"
+      }
+    ],
+    "icon": "assets/icon.png",
+    "asar": true,
+    "win": {
+      "target": "nsis",
+      "icon": "assets/icon.ico",
+      "signAndEditExecutable": false
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "include": "build/installer.nsh",
+      "installerIcon": "assets/icon.ico",
+      "uninstallerIcon": "assets/icon.ico",
+      "installerHeaderIcon": "assets/icon.ico",
+      "shortcutName": "NS Switch Discord Status",
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "displayLanguageSelector": true,
+      "installerLanguages": [
+        "en_US",
+        "pl_PL",
+        "ru_RU"
+      ],
+      "multiLanguageInstaller": true
+    }
+  }
+}
