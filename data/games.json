@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T12:21:29.896Z",
+  "updatedAt": "2026-06-05T16:48:57.646Z",
   "games": [
     {
       "id": "animal-crossing-new-horizons",
@@ -24,9 +24,7 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "arms",
@@ -48,9 +46,7 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "astral-chain",
@@ -72,9 +68,7 @@
       "developer": "PlatinumGames",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "bayonetta-3",
@@ -97,6 +91,50 @@
       "developer": "PlatinumGames",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "card-casino",
+      "title": "CARD&CASINO",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Card and Casino"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/card-casino.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/card-casino.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": null,
+      "publisher": "D3PUBLISHER",
+      "exclusiveStatus": "exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "donkey-kong-bananza",
+      "title": "Donkey Kong Bananza",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "DK Bananza"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/donkey-kong-bananza.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/donkey-kong-bananza.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "exclusive",
       "source": null,
       "image": null,
       "smallImage": null
@@ -122,6 +160,73 @@
       "developer": "Retro Studios",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "drag-x-drive",
+      "title": "Drag x Drive",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Drag and Drive"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/drag-x-drive.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/drag-x-drive.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "efootball-kick-off",
+      "title": "eFootball Kick-Off!",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "eFootball Kick Off"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/efootball-kick-off.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/efootball-kick-off.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": null,
+      "publisher": "KONAMI",
+      "exclusiveStatus": "exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "fast-fusion",
+      "title": "Fast Fusion",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "FAST Fusion"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/fast-fusion.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/fast-fusion.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Shin'en",
+      "publisher": "Shin'en Multimedia",
+      "exclusiveStatus": "exclusive",
       "source": null,
       "image": null,
       "smallImage": null
@@ -146,9 +251,7 @@
       "developer": "Intelligent Systems",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "fire-emblem-three-houses",
@@ -172,9 +275,7 @@
       "developer": "Intelligent Systems, Koei Tecmo",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "hyrule-warriors-age-of-calamity",
@@ -198,6 +299,50 @@
       "developer": "Omega Force",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "hyrule-warriors-age-of-imprisonment",
+      "title": "Hyrule Warriors: Age of Imprisonment",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Age of Imprisonment"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/hyrule-warriors-age-of-imprisonment.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/hyrule-warriors-age-of-imprisonment.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "AAA Games Studio",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "kirby-air-riders",
+      "title": "Kirby Air Riders",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Kirby Air Ride 2"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/kirby-air-riders.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/kirby-air-riders.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "HAL Laboratory",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "exclusive",
       "source": null,
       "image": null,
       "smallImage": null
@@ -222,9 +367,7 @@
       "developer": "HAL Laboratory",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "kirby-star-allies",
@@ -246,9 +389,7 @@
       "developer": "HAL Laboratory",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "luigi-s-mansion-3",
@@ -271,9 +412,7 @@
       "developer": "Next Level Games",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "mario-golf-super-rush",
@@ -295,9 +434,7 @@
       "developer": "Camelot Software Planning",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "mario-kart-8-deluxe",
@@ -321,6 +458,28 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "mario-kart-world",
+      "title": "Mario Kart World",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "MKW",
+        "Mario Kart"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-kart-world.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-kart-world.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Nintendo",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "exclusive",
       "source": null,
       "image": null,
       "smallImage": null
@@ -345,9 +504,7 @@
       "developer": "NDcube",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "mario-tennis-aces",
@@ -369,6 +526,27 @@
       "developer": "Camelot Software Planning",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "mario-tennis-fever",
+      "title": "Mario Tennis Fever",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Mario Tennis"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-tennis-fever.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-tennis-fever.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Camelot",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "exclusive",
       "source": null,
       "image": null,
       "smallImage": null
@@ -393,9 +571,7 @@
       "developer": "MercurySteam, Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "metroid-prime-remastered",
@@ -417,9 +593,7 @@
       "developer": "Retro Studios",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "new-super-mario-bros-u-deluxe",
@@ -442,6 +616,27 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "nintendo-switch-2-welcome-tour",
+      "title": "Nintendo Switch 2 Welcome Tour",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Welcome Tour"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/nintendo-switch-2-welcome-tour.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/nintendo-switch-2-welcome-tour.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "exclusive",
       "source": null,
       "image": null,
       "smallImage": null
@@ -466,9 +661,7 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "paper-mario-the-origami-king",
@@ -490,9 +683,7 @@
       "developer": "Intelligent Systems",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "paper-mario-the-thousand-year-door",
@@ -516,9 +707,7 @@
       "developer": "Intelligent Systems",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "pikmin-3-deluxe",
@@ -540,9 +729,7 @@
       "developer": "Nintendo EPD, Eighting",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "pikmin-4",
@@ -564,9 +751,7 @@
       "developer": "Nintendo EPD, Eighting",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "pokemon-brilliant-diamond",
@@ -589,9 +774,7 @@
       "developer": "ILCA",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "pokemon-legends-arceus",
@@ -615,6 +798,27 @@
       "developer": "Game Freak",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "pokemon-pokopia",
+      "title": "Pokemon Pokopia",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Pokopia"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-pokopia.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-pokopia.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Omega Force",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "exclusive",
       "source": null,
       "image": null,
       "smallImage": null
@@ -640,9 +844,7 @@
       "developer": "Game Freak",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "pokemon-shield",
@@ -665,9 +867,7 @@
       "developer": "Game Freak",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "pokemon-shining-pearl",
@@ -690,9 +890,7 @@
       "developer": "ILCA",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "pokemon-sword",
@@ -715,9 +913,7 @@
       "developer": "Game Freak",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "pokemon-violet",
@@ -740,9 +936,7 @@
       "developer": "Game Freak",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "pokemon-let-s-go-eevee",
@@ -765,9 +959,7 @@
       "developer": "Game Freak",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "pokemon-let-s-go-pikachu",
@@ -790,6 +982,27 @@
       "developer": "Game Freak",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "pool-room-billiard",
+      "title": "Pool Room Billiard",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "POOL ROOM BILLIARD"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pool-room-billiard.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pool-room-billiard.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "ITL",
+      "publisher": "D3PUBLISHER",
+      "exclusiveStatus": "exclusive",
       "source": null,
       "image": null,
       "smallImage": null
@@ -815,9 +1028,7 @@
       "developer": "Good-Feel",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "ring-fit-adventure",
@@ -839,6 +1050,27 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "shine-post-be-your-idol",
+      "title": "Shine Post: Be Your Idol",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Shine Post: Be Your Idol!"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/shine-post-be-your-idol.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/shine-post-be-your-idol.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Konami",
+      "publisher": "Konami",
+      "exclusiveStatus": "exclusive",
       "source": null,
       "image": null,
       "smallImage": null
@@ -863,9 +1095,7 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "splatoon-3",
@@ -887,9 +1117,7 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "super-mario-3d-world-bowser-s-fury",
@@ -914,9 +1142,7 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "super-mario-bros-wonder",
@@ -939,9 +1165,7 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "super-mario-odyssey",
@@ -964,9 +1188,7 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "super-mario-party",
@@ -988,9 +1210,7 @@
       "developer": "NDcube",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "super-mario-party-jamboree",
@@ -1013,9 +1233,7 @@
       "developer": "Nintendo Cube",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "super-smash-bros-ultimate",
@@ -1039,6 +1257,25 @@
       "developer": "Bandai Namco Studios, Sora Ltd.",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "survival-kids",
+      "title": "Survival Kids",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/survival-kids.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/survival-kids.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Unity",
+      "publisher": "Konami Digital Entertainment",
+      "exclusiveStatus": "exclusive",
       "source": null,
       "image": null,
       "smallImage": null
@@ -1065,9 +1302,7 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "the-legend-of-zelda-link-s-awakening",
@@ -1091,9 +1326,7 @@
       "developer": "Grezzo",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "the-legend-of-zelda-tears-of-the-kingdom",
@@ -1117,6 +1350,27 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "tokyo-scramble",
+      "title": "Tokyo Scramble",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "TOKYO SCRAMBLE"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/tokyo-scramble.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/tokyo-scramble.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Adglobe",
+      "publisher": "Binary Haze Interactive",
+      "exclusiveStatus": "exclusive",
       "source": null,
       "image": null,
       "smallImage": null
@@ -1142,9 +1396,7 @@
       "developer": "Monolith Soft",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "xenoblade-chronicles-3",
@@ -1167,9 +1419,7 @@
       "developer": "Monolith Soft",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
-      "source": null,
-      "image": null,
-      "smallImage": null
+      "source": null
     },
     {
       "id": "xenoblade-chronicles-definitive-edition",
@@ -1192,6 +1442,25 @@
       "developer": "Monolith Soft",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "yoshi-and-the-mysterious-book",
+      "title": "Yoshi and the Mysterious Book",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/yoshi-and-the-mysterious-book.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/yoshi-and-the-mysterious-book.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Good-Feel",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "exclusive",
       "source": null,
       "image": null,
       "smallImage": null
