@@ -1,0 +1,1200 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-05T12:21:29.896Z",
+  "games": [
+    {
+      "id": "animal-crossing-new-horizons",
+      "title": "Animal Crossing: New Horizons",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "ACNH",
+        "Animal Crossing",
+        "New Horizons"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/animal-crossing-new-horizons.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/animal-crossing-new-horizons.webp",
+      "smallImageKey": null,
+      "year": 2020,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "arms",
+      "title": "ARMS",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Arms"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/arms.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/arms.webp",
+      "smallImageKey": null,
+      "year": 2017,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "astral-chain",
+      "title": "ASTRAL CHAIN",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Astral Chain"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/astral-chain.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/astral-chain.webp",
+      "smallImageKey": null,
+      "year": 2019,
+      "developer": "PlatinumGames",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "bayonetta-3",
+      "title": "Bayonetta 3",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Bayo 3",
+        "Bayonetta III"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/bayonetta-3.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/bayonetta-3.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "PlatinumGames",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "donkey-kong-country-tropical-freeze",
+      "title": "Donkey Kong Country: Tropical Freeze",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "DK Tropical Freeze",
+        "Tropical Freeze"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/donkey-kong-country-tropical-freeze.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/donkey-kong-country-tropical-freeze.webp",
+      "smallImageKey": null,
+      "year": 2018,
+      "developer": "Retro Studios",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "fire-emblem-engage",
+      "title": "Fire Emblem Engage",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "FE Engage"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/fire-emblem-engage.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/fire-emblem-engage.webp",
+      "smallImageKey": null,
+      "year": 2023,
+      "developer": "Intelligent Systems",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "fire-emblem-three-houses",
+      "title": "Fire Emblem: Three Houses",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "FE3H",
+        "Fire Emblem Three Houses",
+        "Three Houses"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/fire-emblem-three-houses.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/fire-emblem-three-houses.webp",
+      "smallImageKey": null,
+      "year": 2019,
+      "developer": "Intelligent Systems, Koei Tecmo",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "hyrule-warriors-age-of-calamity",
+      "title": "Hyrule Warriors: Age of Calamity",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Age of Calamity",
+        "HW AOC",
+        "Hyrule Warriors AOC"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/hyrule-warriors-age-of-calamity.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/hyrule-warriors-age-of-calamity.webp",
+      "smallImageKey": null,
+      "year": 2020,
+      "developer": "Omega Force",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "kirby-and-the-forgotten-land",
+      "title": "Kirby and the Forgotten Land",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Kirby Forgotten Land"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/kirby-and-the-forgotten-land.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/kirby-and-the-forgotten-land.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "HAL Laboratory",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "kirby-star-allies",
+      "title": "Kirby Star Allies",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Star Allies"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/kirby-star-allies.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/kirby-star-allies.webp",
+      "smallImageKey": null,
+      "year": 2018,
+      "developer": "HAL Laboratory",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "luigi-s-mansion-3",
+      "title": "Luigi's Mansion 3",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Luigis Mansion 3",
+        "Luigi Mansion 3"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/luigi-s-mansion-3.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/luigi-s-mansion-3.webp",
+      "smallImageKey": null,
+      "year": 2019,
+      "developer": "Next Level Games",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "mario-golf-super-rush",
+      "title": "Mario Golf: Super Rush",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Mario Golf"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-golf-super-rush.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-golf-super-rush.webp",
+      "smallImageKey": null,
+      "year": 2021,
+      "developer": "Camelot Software Planning",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "mario-kart-8-deluxe",
+      "title": "Mario Kart 8 Deluxe",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "MK8D",
+        "Mario Kart",
+        "Mario Kart 8"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-kart-8-deluxe.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-kart-8-deluxe.webp",
+      "smallImageKey": null,
+      "year": 2017,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "mario-party-superstars",
+      "title": "Mario Party Superstars",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "MP Superstars"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-party-superstars.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-party-superstars.webp",
+      "smallImageKey": null,
+      "year": 2021,
+      "developer": "NDcube",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "mario-tennis-aces",
+      "title": "Mario Tennis Aces",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Mario Tennis"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-tennis-aces.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-tennis-aces.webp",
+      "smallImageKey": null,
+      "year": 2018,
+      "developer": "Camelot Software Planning",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "metroid-dread",
+      "title": "Metroid Dread",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Dread"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/metroid-dread.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/metroid-dread.webp",
+      "smallImageKey": null,
+      "year": 2021,
+      "developer": "MercurySteam, Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "metroid-prime-remastered",
+      "title": "Metroid Prime Remastered",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Metroid Prime"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/metroid-prime-remastered.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/metroid-prime-remastered.webp",
+      "smallImageKey": null,
+      "year": 2023,
+      "developer": "Retro Studios",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "new-super-mario-bros-u-deluxe",
+      "title": "New Super Mario Bros. U Deluxe",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "NSMBU Deluxe",
+        "New Super Mario Bros U Deluxe"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/new-super-mario-bros-u-deluxe.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/new-super-mario-bros-u-deluxe.webp",
+      "smallImageKey": null,
+      "year": 2019,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "nintendo-switch-sports",
+      "title": "Nintendo Switch Sports",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Switch Sports"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/nintendo-switch-sports.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/nintendo-switch-sports.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "paper-mario-the-origami-king",
+      "title": "Paper Mario: The Origami King",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Origami King"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/paper-mario-the-origami-king.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/paper-mario-the-origami-king.webp",
+      "smallImageKey": null,
+      "year": 2020,
+      "developer": "Intelligent Systems",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "paper-mario-the-thousand-year-door",
+      "title": "Paper Mario: The Thousand-Year Door",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Paper Mario TTYD",
+        "Thousand-Year Door",
+        "TTYD"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/paper-mario-the-thousand-year-door.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/paper-mario-the-thousand-year-door.webp",
+      "smallImageKey": null,
+      "year": 2024,
+      "developer": "Intelligent Systems",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "pikmin-3-deluxe",
+      "title": "Pikmin 3 Deluxe",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Pikmin 3"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pikmin-3-deluxe.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pikmin-3-deluxe.webp",
+      "smallImageKey": null,
+      "year": 2020,
+      "developer": "Nintendo EPD, Eighting",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "pikmin-4",
+      "title": "Pikmin 4",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Pikmin IV"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pikmin-4.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pikmin-4.webp",
+      "smallImageKey": null,
+      "year": 2023,
+      "developer": "Nintendo EPD, Eighting",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "pokemon-brilliant-diamond",
+      "title": "Pokemon Brilliant Diamond",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Pokemon BD",
+        "Brilliant Diamond"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-brilliant-diamond.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-brilliant-diamond.webp",
+      "smallImageKey": null,
+      "year": 2021,
+      "developer": "ILCA",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "pokemon-legends-arceus",
+      "title": "Pokemon Legends: Arceus",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "PLA",
+        "Pokemon Arceus",
+        "Legends Arceus"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-legends-arceus.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-legends-arceus.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "Game Freak",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "pokemon-scarlet",
+      "title": "Pokemon Scarlet",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Pokemon Scarlet and Violet",
+        "Scarlet"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-scarlet.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-scarlet.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "Game Freak",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "pokemon-shield",
+      "title": "Pokemon Shield",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Pokemon Sword and Shield",
+        "Shield"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-shield.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-shield.webp",
+      "smallImageKey": null,
+      "year": 2019,
+      "developer": "Game Freak",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "pokemon-shining-pearl",
+      "title": "Pokemon Shining Pearl",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Pokemon SP",
+        "Shining Pearl"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-shining-pearl.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-shining-pearl.webp",
+      "smallImageKey": null,
+      "year": 2021,
+      "developer": "ILCA",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "pokemon-sword",
+      "title": "Pokemon Sword",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Pokemon Sword and Shield",
+        "Sword"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-sword.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-sword.webp",
+      "smallImageKey": null,
+      "year": 2019,
+      "developer": "Game Freak",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "pokemon-violet",
+      "title": "Pokemon Violet",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Pokemon Scarlet and Violet",
+        "Violet"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-violet.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-violet.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "Game Freak",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "pokemon-let-s-go-eevee",
+      "title": "Pokemon: Let's Go, Eevee!",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Pokemon Lets Go Eevee",
+        "Lets Go Eevee"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-let-s-go-eevee.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-let-s-go-eevee.webp",
+      "smallImageKey": null,
+      "year": 2018,
+      "developer": "Game Freak",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "pokemon-let-s-go-pikachu",
+      "title": "Pokemon: Let's Go, Pikachu!",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Pokemon Lets Go Pikachu",
+        "Lets Go Pikachu"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-let-s-go-pikachu.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-let-s-go-pikachu.webp",
+      "smallImageKey": null,
+      "year": 2018,
+      "developer": "Game Freak",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "princess-peach-showtime",
+      "title": "Princess Peach: Showtime!",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Princess Peach Showtime",
+        "Peach Showtime"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/princess-peach-showtime.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/princess-peach-showtime.webp",
+      "smallImageKey": null,
+      "year": 2024,
+      "developer": "Good-Feel",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "ring-fit-adventure",
+      "title": "Ring Fit Adventure",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Ring Fit"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/ring-fit-adventure.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/ring-fit-adventure.webp",
+      "smallImageKey": null,
+      "year": 2019,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "splatoon-2",
+      "title": "Splatoon 2",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Splatoon 2"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/splatoon-2.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/splatoon-2.webp",
+      "smallImageKey": null,
+      "year": 2017,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "splatoon-3",
+      "title": "Splatoon 3",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Splatoon 3"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/splatoon-3.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/splatoon-3.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "super-mario-3d-world-bowser-s-fury",
+      "title": "Super Mario 3D World + Bowser's Fury",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Super Mario 3D World",
+        "Bowser's Fury",
+        "Bowsers Fury",
+        "3D World"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-mario-3d-world-bowser-s-fury.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-mario-3d-world-bowser-s-fury.webp",
+      "smallImageKey": null,
+      "year": 2021,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "super-mario-bros-wonder",
+      "title": "Super Mario Bros. Wonder",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Mario Wonder",
+        "SMB Wonder"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-mario-bros-wonder.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-mario-bros-wonder.webp",
+      "smallImageKey": null,
+      "year": 2023,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "super-mario-odyssey",
+      "title": "Super Mario Odyssey",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Mario Odyssey",
+        "SMO"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-mario-odyssey.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-mario-odyssey.webp",
+      "smallImageKey": null,
+      "year": 2017,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "super-mario-party",
+      "title": "Super Mario Party",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "SMP"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-mario-party.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-mario-party.webp",
+      "smallImageKey": null,
+      "year": 2018,
+      "developer": "NDcube",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "super-mario-party-jamboree",
+      "title": "Super Mario Party Jamboree",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Mario Party Jamboree",
+        "SMP Jamboree"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-mario-party-jamboree.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-mario-party-jamboree.webp",
+      "smallImageKey": null,
+      "year": 2024,
+      "developer": "Nintendo Cube",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "super-smash-bros-ultimate",
+      "title": "Super Smash Bros. Ultimate",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Smash Ultimate",
+        "SSBU",
+        "Super Smash Bros"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-smash-bros-ultimate.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-smash-bros-ultimate.webp",
+      "smallImageKey": null,
+      "year": 2018,
+      "developer": "Bandai Namco Studios, Sora Ltd.",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "the-legend-of-zelda-breath-of-the-wild",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "BOTW",
+        "Zelda BOTW",
+        "Breath of the Wild"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/the-legend-of-zelda-breath-of-the-wild.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/the-legend-of-zelda-breath-of-the-wild.webp",
+      "smallImageKey": null,
+      "year": 2017,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "the-legend-of-zelda-link-s-awakening",
+      "title": "The Legend of Zelda: Link's Awakening",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Link's Awakening",
+        "Links Awakening",
+        "Zelda Link's Awakening"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/the-legend-of-zelda-link-s-awakening.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/the-legend-of-zelda-link-s-awakening.webp",
+      "smallImageKey": null,
+      "year": 2019,
+      "developer": "Grezzo",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "the-legend-of-zelda-tears-of-the-kingdom",
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "TOTK",
+        "Zelda TOTK",
+        "Tears of the Kingdom"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/the-legend-of-zelda-tears-of-the-kingdom.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/the-legend-of-zelda-tears-of-the-kingdom.webp",
+      "smallImageKey": null,
+      "year": 2023,
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "xenoblade-chronicles-2",
+      "title": "Xenoblade Chronicles 2",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "XC2",
+        "Xenoblade 2"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/xenoblade-chronicles-2.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/xenoblade-chronicles-2.webp",
+      "smallImageKey": null,
+      "year": 2017,
+      "developer": "Monolith Soft",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "xenoblade-chronicles-3",
+      "title": "Xenoblade Chronicles 3",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "XC3",
+        "Xenoblade 3"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/xenoblade-chronicles-3.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/xenoblade-chronicles-3.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "Monolith Soft",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    },
+    {
+      "id": "xenoblade-chronicles-definitive-edition",
+      "title": "Xenoblade Chronicles: Definitive Edition",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "XCDE",
+        "Xenoblade Definitive Edition"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/xenoblade-chronicles-definitive-edition.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/xenoblade-chronicles-definitive-edition.webp",
+      "smallImageKey": null,
+      "year": 2020,
+      "developer": "Monolith Soft",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "console_exclusive",
+      "source": null,
+      "image": null,
+      "smallImage": null
+    }
+  ]
+}
