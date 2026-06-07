@@ -40,13 +40,13 @@ function isPlatformArray(value: unknown): value is Platform[] {
 }
 
 function migratePlayableOn(platform: Platform, playableOn: unknown): Platform[] {
-  if (isPlatformArray(playableOn) && playableOn.length > 0) {
-    return [...new Set(playableOn)];
+  if (platform === "Nintendo Switch") {
+    const consoles = isPlatformArray(playableOn) ? playableOn : [];
+    const defaultConsoles: Platform[] = ["Nintendo Switch", "Nintendo Switch 2"];
+    return [...new Set<Platform>([...defaultConsoles, ...consoles])];
   }
 
-  return platform === "Nintendo Switch"
-    ? ["Nintendo Switch", "Nintendo Switch 2"]
-    : ["Nintendo Switch 2"];
+  return ["Nintendo Switch 2"];
 }
 
 function validateImageValue(value: string | null, field: string, errors: string[]): void {

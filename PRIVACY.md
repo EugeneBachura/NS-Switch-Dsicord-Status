@@ -1,6 +1,6 @@
 # Privacy
 
-NS Switch Dsicord Status is a manual local app. It does not know what you are really playing. You choose a game, and the app asks Discord Desktop on your computer to show that status.
+NS Switch Discord Status is a manual local app. It does not know what you are really playing. You choose a game, and the app asks Discord Desktop on your computer to show that status.
 
 The app does not ask for a Discord token, Discord password, Nintendo login, Nintendo Switch Online login, cookies, OAuth, or account data. It does not include telemetry or analytics.
 

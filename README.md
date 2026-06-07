@@ -1,6 +1,6 @@
-# NS Switch Dsicord Status
+# NS Switch Discord Status
 
-NS Switch Dsicord Status is a small desktop app for showing a Nintendo Switch or Nintendo Switch 2 game in Discord. You pick the game yourself, press Start, and the app sends that status through the local Discord Desktop RPC.
+NS Switch Discord Status is a small desktop app for showing a Nintendo Switch or Nintendo Switch 2 game in Discord. You pick the game yourself, press Start, and the app sends that status through the local Discord Desktop RPC.
 
 It does not log in to Discord or Nintendo. It does not ask for tokens, passwords, cookies, OAuth, or account data. The app only talks to Discord Desktop running on your computer.
 

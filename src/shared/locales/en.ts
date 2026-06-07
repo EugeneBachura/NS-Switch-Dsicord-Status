@@ -69,7 +69,7 @@ export const en = {
   customGamesStored: "custom games stored locally.",
   aboutTitle: "About & Privacy",
   aboutDescription:
-    "NS Switch Dsicord Status helps you share a Nintendo Switch or Nintendo Switch 2 game in Discord when you want to.",
+    "NS Switch Discord Status helps you share a Nintendo Switch or Nintendo Switch 2 game in Discord when you want to.",
   aboutCopyPrivacy:
     "It does not ask for Discord tokens, passwords, Nintendo logins, cookies, telemetry, or analytics. Your custom games stay on this computer.",
   aboutCopyDatabase:

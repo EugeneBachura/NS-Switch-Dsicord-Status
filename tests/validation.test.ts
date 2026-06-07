@@ -56,6 +56,17 @@ describe("validateGameDatabase", () => {
     expect(database.games[0].playableOn).toEqual(["Nintendo Switch", "Nintendo Switch 2"]);
   });
 
+  it("expands old Switch playableOn values to include Switch 2", () => {
+    const oldGame: GameEntry = { ...games[0], playableOn: ["Nintendo Switch"] };
+    const database = validateGameDatabase({
+      version: 1,
+      updatedAt: "2026-01-01T00:00:00Z",
+      games: [oldGame]
+    });
+
+    expect(database.games[0].playableOn).toEqual(["Nintendo Switch", "Nintendo Switch 2"]);
+  });
+
   it("migrates Switch 2 games without playableOn to Switch 2 only", () => {
     const oldGame: Partial<GameEntry> = {
       ...games[0],
@@ -63,6 +74,22 @@ describe("validateGameDatabase", () => {
       platform: "Nintendo Switch 2" as const
     };
     delete oldGame.playableOn;
+    const database = validateGameDatabase({
+      version: 1,
+      updatedAt: "2026-01-01T00:00:00Z",
+      games: [oldGame]
+    });
+
+    expect(database.games[0].playableOn).toEqual(["Nintendo Switch 2"]);
+  });
+
+  it("keeps Switch 2 native games on Switch 2 only", () => {
+    const oldGame: GameEntry = {
+      ...games[0],
+      id: "metroid-prime-4-beyond",
+      platform: "Nintendo Switch 2",
+      playableOn: ["Nintendo Switch", "Nintendo Switch 2"]
+    };
     const database = validateGameDatabase({
       version: 1,
       updatedAt: "2026-01-01T00:00:00Z",
@@ -126,7 +153,7 @@ describe("default settings", () => {
 
   it("uses the repository game database URL by default", () => {
     expect(defaultRemoteDatabaseUrl).toBe(
-      "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/games.json"
+      "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/games.json"
     );
     expect(defaultSettings.remoteDatabaseUrl).toBe(defaultRemoteDatabaseUrl);
   });

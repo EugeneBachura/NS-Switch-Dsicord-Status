@@ -1,5 +1,5 @@
 {
-  "name": "ns-switch-dsicord-status",
+  "name": "ns-switch-discord-status",
   "version": "0.1.5",
   "description": "Discord status app for Nintendo Switch and Nintendo Switch 2.",
   "main": "dist/main/main.js",
