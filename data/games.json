@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T19:52:29.136Z",
+  "updatedAt": "2026-06-07T07:46:37.845Z",
   "games": [
     {
       "id": "13-sentinels-aegis-rim",
@@ -87,6 +87,26 @@
       "source": null
     },
     {
+      "id": "another-code-recollection",
+      "title": "Another Code: Recollection",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/another-code-recollection.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/another-code-recollection.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": null,
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "apex-legends",
       "title": "Apex Legends",
       "platform": "Nintendo Switch",
@@ -129,6 +149,26 @@
       "source": null
     },
     {
+      "id": "asphalt-legends",
+      "title": "Asphalt Legends",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/asphalt-legends.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/asphalt-legends.webp",
+      "smallImageKey": null,
+      "year": 2024,
+      "developer": "Gameloft",
+      "publisher": "Gameloft",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "astral-chain",
       "title": "ASTRAL CHAIN",
       "platform": "Nintendo Switch",
@@ -148,6 +188,26 @@
       "developer": "PlatinumGames",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "balatro",
+      "title": "Balatro",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/balatro.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/balatro.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "LocalThunk",
+      "publisher": "Playstack",
+      "exclusiveStatus": "unknown",
       "source": null
     },
     {
@@ -214,6 +274,46 @@
       "source": null
     },
     {
+      "id": "big-brain-academy-brain-vs-brain",
+      "title": "Big Brain Academy: Brain vs. Brain",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/big-brain-academy-brain-vs-brain.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/big-brain-academy-brain-vs-brain.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Nintendo",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "bravely-default-ii",
+      "title": "Bravely Default II",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/bravely-default-ii.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/bravely-default-ii.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Square-Enix",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "brawlhalla",
       "title": "Brawlhalla",
       "platform": "Nintendo Switch",
@@ -230,6 +330,46 @@
       "year": 2018,
       "developer": "Blue Mammoth Games",
       "publisher": "Ubisoft",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "brotato",
+      "title": "Brotato",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/brotato.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/brotato.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Seaven Studio",
+      "publisher": "Seaven Studio",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
+      "title": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Brace Yourself Games",
+      "publisher": "Nintendo",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -315,6 +455,26 @@
       "source": null
     },
     {
+      "id": "cocoon",
+      "title": "COCOON",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/cocoon.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/cocoon.webp",
+      "smallImageKey": null,
+      "year": 2023,
+      "developer": "Geometric Interactive",
+      "publisher": "Annapurna Interactive",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "cuphead",
       "title": "Cuphead",
       "platform": "Nintendo Switch",
@@ -375,6 +535,26 @@
       "source": null
     },
     {
+      "id": "dave-the-diver",
+      "title": "DAVE THE DIVER",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dave-the-diver.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dave-the-diver.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "MINTROCKET",
+      "publisher": "Mintrocket",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "dead-cells",
       "title": "Dead Cells",
       "platform": "Nintendo Switch",
@@ -391,6 +571,46 @@
       "year": 2023,
       "developer": "Motion Twin",
       "publisher": "Motion Twin",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles",
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "SEGA",
+      "publisher": "SEGA",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "detective-pikachu-returns",
+      "title": "Detective Pikachu Returns",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/detective-pikachu-returns.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/detective-pikachu-returns.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Creatures",
+      "publisher": "Nintendo",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -431,6 +651,66 @@
       "year": 2018,
       "developer": "Blizzard Entertainment",
       "publisher": "Blizzard Entertainment",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "digimon-story-cyber-sleuth-complete-edition",
+      "title": "Digimon Story Cyber Sleuth: Complete Edition",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/digimon-story-cyber-sleuth-complete-edition.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/digimon-story-cyber-sleuth-complete-edition.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "h.a.n.d.",
+      "publisher": "BANDAI NAMCO Entertainment",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "digimon-survive",
+      "title": "Digimon Survive",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/digimon-survive.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/digimon-survive.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "HYDE",
+      "publisher": "BANDAI NAMCO Entertainment",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "disney-speedstorm",
+      "title": "Disney Speedstorm",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/disney-speedstorm.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/disney-speedstorm.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Gameloft",
+      "publisher": "Gameloft",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -500,6 +780,126 @@
       "source": null
     },
     {
+      "id": "dragon-ball-fighterz",
+      "title": "DRAGON BALL FIGHTERZ",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dragon-ball-fighterz.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dragon-ball-fighterz.webp",
+      "smallImageKey": null,
+      "year": 2024,
+      "developer": "Arc System Works",
+      "publisher": "BANDAI NAMCO Entertainment",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "dragon-ball-xenoverse-2",
+      "title": "DRAGON BALL XENOVERSE 2",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dragon-ball-xenoverse-2.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dragon-ball-xenoverse-2.webp",
+      "smallImageKey": null,
+      "year": 2024,
+      "developer": "Dimps",
+      "publisher": "BANDAI NAMCO Entertainment",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "dragon-ball-z-kakarot",
+      "title": "DRAGON BALL Z: KAKAROT",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dragon-ball-z-kakarot.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dragon-ball-z-kakarot.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "CyberConnect2",
+      "publisher": "BANDAI NAMCO Entertainment",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "dragon-quest-builders-2",
+      "title": "DRAGON QUEST BUILDERS 2",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dragon-quest-builders-2.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dragon-quest-builders-2.webp",
+      "smallImageKey": null,
+      "year": 2021,
+      "developer": "SQUARE ENIX",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "dragon-quest-iii-hd-2d-remake",
+      "title": "Dragon Quest III HD-2D Remake",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dragon-quest-iii-hd-2d-remake.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dragon-quest-iii-hd-2d-remake.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "ARTDINK",
+      "publisher": "SQUARE ENIX",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "dragon-quest-monsters-the-dark-prince",
+      "title": "DRAGON QUEST MONSTERS: The Dark Prince",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dragon-quest-monsters-the-dark-prince.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/dragon-quest-monsters-the-dark-prince.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Square Enix",
+      "publisher": "SQUARE ENIX",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
       "title": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition",
       "platform": "Nintendo Switch",
@@ -538,6 +938,66 @@
       "developer": null,
       "publisher": "KONAMI",
       "exclusiveStatus": "exclusive",
+      "source": null
+    },
+    {
+      "id": "emio-the-smiling-man-famicom-detective-club",
+      "title": "Emio - The Smiling Man: Famicom Detective Club",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/emio-the-smiling-man-famicom-detective-club.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/emio-the-smiling-man-famicom-detective-club.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": null,
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "endless-ocean-luminous",
+      "title": "Endless Ocean Luminous",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/endless-ocean-luminous.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/endless-ocean-luminous.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": null,
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "f-zero-99",
+      "title": "F-ZERO 99",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/f-zero-99.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/f-zero-99.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": null,
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
       "source": null
     },
     {
@@ -688,6 +1148,46 @@
       "source": null
     },
     {
+      "id": "game-builder-garage",
+      "title": "Game Builder Garage",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/game-builder-garage.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/game-builder-garage.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Nintendo",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "god-wars-the-complete-legend",
+      "title": "GOD WARS The Complete Legend",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/god-wars-the-complete-legend.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/god-wars-the-complete-legend.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Kadokawa Games",
+      "publisher": "NIS America",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "hades",
       "title": "Hades",
       "platform": "Nintendo Switch",
@@ -704,6 +1204,26 @@
       "year": 2021,
       "developer": "Supergiant Games",
       "publisher": "Supergiant Games",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "hogwarts-legacy",
+      "title": "Hogwarts Legacy",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/hogwarts-legacy.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/hogwarts-legacy.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Avalanche Software",
+      "publisher": "WB Games",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -816,6 +1336,26 @@
       "source": null
     },
     {
+      "id": "kirby-fighters-2",
+      "title": "Kirby Fighters 2",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/kirby-fighters-2.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/kirby-fighters-2.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "HAL Laboratory",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "kirby-star-allies",
       "title": "Kirby Star Allies",
       "platform": "Nintendo Switch",
@@ -853,6 +1393,46 @@
       "smallImageKey": null,
       "year": null,
       "developer": "HAL Laboratory",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "lego-star-wars-the-skywalker-saga",
+      "title": "LEGO Star Wars: The Skywalker Saga",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/lego-star-wars-the-skywalker-saga.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/lego-star-wars-the-skywalker-saga.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "TT Games",
+      "publisher": "WB Games",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "live-a-live",
+      "title": "LIVE A LIVE",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/live-a-live.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/live-a-live.webp",
+      "smallImageKey": null,
+      "year": 2023,
+      "developer": "SQUARE ENIX",
       "publisher": "Nintendo",
       "exclusiveStatus": "unknown",
       "source": null
@@ -1031,6 +1611,26 @@
       "source": null
     },
     {
+      "id": "mario-strikers-battle-league",
+      "title": "Mario Strikers: Battle League",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-strikers-battle-league.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mario-strikers-battle-league.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Nintendo",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "mario-tennis-aces",
       "title": "Mario Tennis Aces",
       "platform": "Nintendo Switch",
@@ -1178,6 +1778,26 @@
       "source": null
     },
     {
+      "id": "minecraft-nintendo-switch-edition",
+      "title": "Minecraft: Nintendo Switch Edition",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/minecraft-nintendo-switch-edition.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/minecraft-nintendo-switch-edition.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": null,
+      "publisher": "Mojang",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "monster-hunter-generations-ultimate",
       "title": "Monster Hunter Generations Ultimate",
       "platform": "Nintendo Switch",
@@ -1254,6 +1874,26 @@
       "year": 2025,
       "developer": "CAPCOM",
       "publisher": "CAPCOM",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "mysims-cozy-bundle",
+      "title": "MySims: Cozy Bundle",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mysims-cozy-bundle.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/mysims-cozy-bundle.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Maxis",
+      "publisher": "Electronic Arts",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -1358,6 +1998,26 @@
       "source": null
     },
     {
+      "id": "new-pokemon-snap",
+      "title": "New Pokemon Snap",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/new-pokemon-snap.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/new-pokemon-snap.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "BANDAI NAMCO Studios",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "new-super-mario-bros-u-deluxe",
       "title": "New Super Mario Bros. U Deluxe",
       "platform": "Nintendo Switch",
@@ -1378,6 +2038,46 @@
       "developer": "Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "ni-no-kuni-wrath-of-the-white-witch",
+      "title": "Ni no Kuni: Wrath of the White Witch",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/ni-no-kuni-wrath-of-the-white-witch.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/ni-no-kuni-wrath-of-the-white-witch.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "LEVEL-5",
+      "publisher": "BANDAI NAMCO Entertainment",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "nier-automata-the-end-of-yorha-edition",
+      "title": "NieR:Automata The End of YoRHa Edition",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/nier-automata-the-end-of-yorha-edition.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/nier-automata-the-end-of-yorha-edition.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Virtuos",
+      "publisher": "SQUARE ENIX",
+      "exclusiveStatus": "unknown",
       "source": null
     },
     {
@@ -1424,6 +2124,46 @@
       "source": null
     },
     {
+      "id": "no-man-s-sky",
+      "title": "No Man's Sky",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/no-man-s-sky.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/no-man-s-sky.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Hello Games",
+      "publisher": "Hello Games",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "octopath-traveler",
+      "title": "Octopath Traveler",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/octopath-traveler.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/octopath-traveler.webp",
+      "smallImageKey": null,
+      "year": 2024,
+      "developer": "SQUARE ENIX",
+      "publisher": "SQUARE ENIX",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "octopath-traveler-ii",
       "title": "OCTOPATH TRAVELER II",
       "platform": "Nintendo Switch",
@@ -1440,6 +2180,46 @@
       "year": 2024,
       "developer": "Square Enix",
       "publisher": "SQUARE ENIX",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "one-piece-odyssey-deluxe-edition",
+      "title": "ONE PIECE ODYSSEY Deluxe Edition",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/one-piece-odyssey-deluxe-edition.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/one-piece-odyssey-deluxe-edition.webp",
+      "smallImageKey": null,
+      "year": 2024,
+      "developer": "ILCA",
+      "publisher": "BANDAI NAMCO Entertainment",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "one-piece-pirate-warriors-4",
+      "title": "ONE PIECE: PIRATE WARRIORS 4",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/one-piece-pirate-warriors-4.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/one-piece-pirate-warriors-4.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Koei Tecmo",
+      "publisher": "BANDAI NAMCO Entertainment",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -1480,6 +2260,26 @@
       "year": 2026,
       "developer": "Blizzard Entertainment",
       "publisher": "Blizzard Entertainment",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "palia",
+      "title": "Palia",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/palia.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/palia.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Singularity 6",
+      "publisher": "Singularity 6",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -1617,6 +2417,26 @@
       "source": null
     },
     {
+      "id": "pokemon-cafe-remix",
+      "title": "Pokemon Café ReMix",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-cafe-remix.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-cafe-remix.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Genius Sonority",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "pokemon-legends-arceus",
       "title": "Pokemon Legends: Arceus",
       "platform": "Nintendo Switch",
@@ -1679,6 +2499,26 @@
       "developer": "Omega Force",
       "publisher": "Nintendo",
       "exclusiveStatus": "exclusive",
+      "source": null
+    },
+    {
+      "id": "pokemon-quest",
+      "title": "Pokemon Quest",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-quest.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokemon-quest.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "GAME FREAK",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
       "source": null
     },
     {
@@ -1863,6 +2703,26 @@
       "source": null
     },
     {
+      "id": "pokken-tournament-dx",
+      "title": "Pokkén Tournament DX",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokken-tournament-dx.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/pokken-tournament-dx.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "BANDAI NAMCO Entertainment",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "pool-room-billiard",
       "title": "Pool Room Billiard",
       "platform": "Nintendo Switch 2",
@@ -1924,6 +2784,26 @@
       "developer": "Good-Feel",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "red-dead-redemption",
+      "title": "Red Dead Redemption",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/red-dead-redemption.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/red-dead-redemption.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Rockstar Games",
+      "publisher": "ROCKSTAR GAMES",
+      "exclusiveStatus": "unknown",
       "source": null
     },
     {
@@ -2049,6 +2929,26 @@
       "source": null
     },
     {
+      "id": "sea-of-stars",
+      "title": "Sea of Stars",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/sea-of-stars.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/sea-of-stars.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Sabotage Studio",
+      "publisher": "Sabotage Studio",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "shin-megami-tensei-v",
       "title": "Shin Megami Tensei V",
       "platform": "Nintendo Switch",
@@ -2090,6 +2990,26 @@
       "source": null
     },
     {
+      "id": "sky-children-of-the-light",
+      "title": "Sky: Children of the Light",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/sky-children-of-the-light.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/sky-children-of-the-light.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "thatgamecompany",
+      "publisher": "thatgamecompany",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "slay-the-spire",
       "title": "Slay the Spire",
       "platform": "Nintendo Switch",
@@ -2106,6 +3026,106 @@
       "year": 2019,
       "developer": "Mega Crit",
       "publisher": "Humble Games",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "snipperclips-cut-it-out-together",
+      "title": "Snipperclips - Cut it out, together!",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/snipperclips-cut-it-out-together.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/snipperclips-cut-it-out-together.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": null,
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "sonic-frontiers",
+      "title": "Sonic Frontiers",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/sonic-frontiers.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/sonic-frontiers.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "SEGA",
+      "publisher": "SEGA",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "sonic-mania",
+      "title": "Sonic Mania",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/sonic-mania.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/sonic-mania.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Christian Whitehead",
+      "publisher": "SEGA",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "sonic-superstars",
+      "title": "SONIC SUPERSTARS",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/sonic-superstars.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/sonic-superstars.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "SEGA",
+      "publisher": "SEGA",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "sonic-x-shadow-generations",
+      "title": "SONIC X SHADOW GENERATIONS",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/sonic-x-shadow-generations.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/sonic-x-shadow-generations.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "SONIC TEAM",
+      "publisher": "SEGA",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -2170,6 +3190,26 @@
       "year": 2026,
       "developer": "ConcernedApe",
       "publisher": "ConcernedApe",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "super-kirby-clash",
+      "title": "Super Kirby Clash",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-kirby-clash.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/super-kirby-clash.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "HAL Laboratory",
+      "publisher": "Nintendo",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -2353,6 +3393,66 @@
       "source": null
     },
     {
+      "id": "tales-of-vesperia-definitive-edition",
+      "title": "Tales of Vesperia: Definitive Edition",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/tales-of-vesperia-definitive-edition.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/tales-of-vesperia-definitive-edition.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Originally Developed by BANDAI NAMCO Studios",
+      "publisher": "BANDAI NAMCO Entertainment",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "terraria",
+      "title": "Terraria",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/terraria.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/terraria.webp",
+      "smallImageKey": null,
+      "year": 2019,
+      "developer": "Pipeworks Studio",
+      "publisher": "505 Games",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "tetris-99",
+      "title": "Tetris 99",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/tetris-99.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/tetris-99.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Arika",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "tetris-effect-connected",
       "title": "Tetris Effect: Connected",
       "platform": "Nintendo Switch",
@@ -2369,6 +3469,26 @@
       "year": 2023,
       "developer": "Monstars",
       "publisher": "Enhance",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "the-elder-scrolls-v-skyrim",
+      "title": "The Elder Scrolls V: Skyrim",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/the-elder-scrolls-v-skyrim.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/the-elder-scrolls-v-skyrim.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -2485,6 +3605,26 @@
       "source": null
     },
     {
+      "id": "the-witcher-3-wild-hunt-complete-edition",
+      "title": "The Witcher 3: Wild Hunt - Complete Edition",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/the-witcher-3-wild-hunt-complete-edition.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/the-witcher-3-wild-hunt-complete-edition.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "CD PROJEKT RED",
+      "publisher": "CD PROJEKT",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "tokyo-scramble",
       "title": "Tokyo Scramble",
       "platform": "Nintendo Switch 2",
@@ -2526,6 +3666,46 @@
       "source": null
     },
     {
+      "id": "triangle-strategy",
+      "title": "TRIANGLE STRATEGY",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/triangle-strategy.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/triangle-strategy.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Square Enix",
+      "publisher": "SQUARE ENIX",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "tunic",
+      "title": "TUNIC",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/tunic.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/tunic.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "Isometricorp Games",
+      "publisher": "Finji",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "undertale",
       "title": "Undertale",
       "platform": "Nintendo Switch",
@@ -2542,6 +3722,46 @@
       "year": 2021,
       "developer": "8-4",
       "publisher": "8-4",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "unicorn-overlord",
+      "title": "Unicorn Overlord",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/unicorn-overlord.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/unicorn-overlord.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Vanillaware",
+      "publisher": "SEGA",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "vampire-survivors",
+      "title": "Vampire Survivors",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/vampire-survivors.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/vampire-survivors.webp",
+      "smallImageKey": null,
+      "year": 2024,
+      "developer": "Poncle",
+      "publisher": "poncle",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -2730,6 +3950,86 @@
       "year": null,
       "developer": "Good-Feel",
       "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "ys-ix-monstrum-nox",
+      "title": "Ys IX: Monstrum Nox",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/ys-ix-monstrum-nox.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/ys-ix-monstrum-nox.webp",
+      "smallImageKey": null,
+      "year": 2023,
+      "developer": "Nihon Falcom",
+      "publisher": "NIS America",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "ys-viii-lacrimosa-of-dana",
+      "title": "Ys VIII: Lacrimosa of DANA",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/ys-viii-lacrimosa-of-dana.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/ys-viii-lacrimosa-of-dana.webp",
+      "smallImageKey": null,
+      "year": 2022,
+      "developer": "Nihon Falcom",
+      "publisher": "NIS America",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "ys-x-nordics",
+      "title": "Ys X: Nordics",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/ys-x-nordics.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/ys-x-nordics.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "Nihon Falcom",
+      "publisher": "NIS America",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "yu-gi-oh-master-duel",
+      "title": "Yu-Gi-Oh! Master Duel",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/yu-gi-oh-master-duel.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Dsicord-Status/data/covers/yu-gi-oh-master-duel.webp",
+      "smallImageKey": null,
+      "year": null,
+      "developer": "KONAMI",
+      "publisher": "KONAMI",
       "exclusiveStatus": "unknown",
       "source": null
     }
