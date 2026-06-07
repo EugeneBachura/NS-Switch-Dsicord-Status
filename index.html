@@ -1,0 +1,674 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="NS Switch Discord Status is a small desktop app for manually showing Nintendo Switch and Nintendo Switch 2 games in Discord Rich Presence."
+    />
+    <title>NS Switch Discord Status</title>
+    <style>
+      :root {
+        --accent: #e60012;
+        --accent-hover: #cc0010;
+        --bg: #0f141c;
+        --panel: #161d27;
+        --panel-soft: #1e2734;
+        --text: #f8fafc;
+        --muted: #9aa8bd;
+        --border: rgba(255, 255, 255, 0.1);
+        --shadow: 0 28px 70px rgba(0, 0, 0, 0.32);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        color: var(--text);
+        background:
+          radial-gradient(circle at top left, rgba(230, 0, 18, 0.22), transparent 34rem),
+          radial-gradient(circle at 85% 15%, rgba(255, 255, 255, 0.1), transparent 24rem),
+          linear-gradient(135deg, #0c1118, var(--bg));
+        font-family:
+          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .page {
+        width: min(1120px, calc(100% - 32px));
+        min-height: 100vh;
+        margin: 0 auto;
+        padding: 28px 0 36px;
+        display: grid;
+        align-content: center;
+        gap: 34px;
+      }
+
+      .nav {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        font-weight: 800;
+      }
+
+      .brand img {
+        width: 40px;
+        height: 40px;
+        border-radius: 12px;
+        box-shadow: 0 14px 26px rgba(230, 0, 18, 0.28);
+      }
+
+      .nav-links {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      .hero {
+        display: grid;
+        grid-template-columns: minmax(0, 1.04fr) minmax(360px, 0.96fr);
+        align-items: center;
+        gap: 42px;
+      }
+
+      .eyebrow {
+        margin: 0 0 14px;
+        color: #ffb7be;
+        font-size: 14px;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        margin: 0;
+        max-width: 780px;
+        font-size: clamp(44px, 7vw, 86px);
+        line-height: 0.95;
+        letter-spacing: 0;
+      }
+
+      .copy {
+        max-width: 650px;
+        margin: 22px 0 0;
+        color: var(--muted);
+        font-size: 18px;
+        line-height: 1.7;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 30px;
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 48px;
+        padding: 0 18px;
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        background: rgba(255, 255, 255, 0.06);
+        color: var(--text);
+        font-weight: 800;
+        transition:
+          transform 160ms ease,
+          background 160ms ease,
+          border-color 160ms ease;
+      }
+
+      .button:hover {
+        transform: translateY(-2px);
+        border-color: rgba(255, 255, 255, 0.22);
+        background: rgba(255, 255, 255, 0.1);
+      }
+
+      .button.primary {
+        border-color: transparent;
+        background: var(--accent);
+        box-shadow: 0 18px 36px rgba(230, 0, 18, 0.28);
+      }
+
+      .button.primary:hover {
+        background: var(--accent-hover);
+      }
+
+      .status-card {
+        position: relative;
+        min-height: 510px;
+        display: grid;
+        grid-template-rows: 1fr auto;
+        gap: 14px;
+        padding: 34px 28px 28px;
+        border: 1px solid var(--border);
+        border-radius: 28px;
+        overflow: hidden;
+        background:
+          linear-gradient(135deg, rgba(230, 0, 18, 0.14), transparent 46%),
+          radial-gradient(circle at 82% 18%, rgba(255, 255, 255, 0.12), transparent 20rem),
+          #111821;
+        box-shadow: var(--shadow);
+      }
+
+      .status-card::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background:
+          linear-gradient(135deg, rgba(230, 0, 18, 0.18), transparent 42%),
+          radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.12), transparent 22rem);
+      }
+
+      .game-stack {
+        position: relative;
+        display: grid;
+        align-content: center;
+        gap: 12px;
+        z-index: 1;
+      }
+
+      .discord-activity {
+        width: min(100%, 390px);
+        margin: 0 auto;
+        padding: 10px;
+        border-radius: 12px;
+        background: #2b2d36;
+        box-shadow: 0 24px 55px rgba(0, 0, 0, 0.32);
+        animation: hover-card 5s ease-in-out infinite;
+      }
+
+      .discord-activity:nth-child(2) {
+        animation-delay: -1.5s;
+      }
+
+      .discord-activity:nth-child(3) {
+        animation-delay: -3s;
+      }
+
+      .activity-top {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 6px;
+        color: #b9bfcc;
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .activity-menu {
+        color: #b9bfcc;
+        font-size: 18px;
+        letter-spacing: 2px;
+        line-height: 1;
+      }
+
+      .activity-body {
+        display: grid;
+        grid-template-columns: 58px 1fr;
+        gap: 11px;
+        align-items: center;
+      }
+
+      .activity-cover {
+        width: 58px;
+        height: 58px;
+        border-radius: 10px;
+        object-fit: cover;
+        background: #20232b;
+      }
+
+      .activity-text {
+        min-width: 0;
+      }
+
+      .activity-app {
+        margin: 0 0 3px;
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: 800;
+        line-height: 1.1;
+      }
+
+      .activity-game {
+        margin: 0 0 6px;
+        color: #ffffff;
+        font-size: 14px;
+        line-height: 1.25;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      .activity-time {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        color: #41c978;
+        font-size: 13px;
+        font-weight: 700;
+      }
+
+      .activity-time svg {
+        width: 15px;
+        height: 15px;
+        fill: currentColor;
+      }
+
+      .screen-bottom {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        color: var(--muted);
+        font-size: 13px;
+        position: relative;
+        z-index: 1;
+      }
+
+      .pulse {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .pulse::before {
+        content: "";
+        width: 9px;
+        height: 9px;
+        border-radius: 999px;
+        background: #2dd36f;
+        box-shadow: 0 0 0 0 rgba(45, 211, 111, 0.55);
+        animation: pulse 1.8s ease-out infinite;
+      }
+
+      .features {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 12px;
+      }
+
+      .feature {
+        min-height: 112px;
+        padding: 18px;
+        border: 1px solid var(--border);
+        border-radius: 18px;
+        background: rgba(255, 255, 255, 0.055);
+      }
+
+      .feature strong {
+        display: block;
+        margin-bottom: 8px;
+      }
+
+      .feature span {
+        color: var(--muted);
+        font-size: 14px;
+        line-height: 1.5;
+      }
+
+      .footer {
+        display: flex;
+        justify-content: space-between;
+        gap: 14px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      @keyframes hover-card {
+        0%,
+        100% {
+          transform: translateY(0);
+        }
+        50% {
+          transform: translateY(-6px);
+        }
+      }
+
+      @keyframes pulse {
+        100% {
+          box-shadow: 0 0 0 13px rgba(45, 211, 111, 0);
+        }
+      }
+
+      @media (max-width: 880px) {
+        .page {
+          align-content: start;
+          padding-top: 22px;
+        }
+
+        .hero {
+          grid-template-columns: 1fr;
+        }
+
+        .status-card {
+          min-height: 430px;
+          padding: 26px 22px 22px;
+        }
+
+        .features {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+
+      @media (max-width: 580px) {
+        .nav,
+        .footer,
+        .screen-bottom {
+          align-items: flex-start;
+          flex-direction: column;
+        }
+
+        .nav-links {
+          display: none;
+        }
+
+        h1 {
+          font-size: 44px;
+        }
+
+        .copy {
+          font-size: 16px;
+        }
+
+        .button {
+          width: 100%;
+        }
+
+        .features {
+          grid-template-columns: 1fr;
+        }
+
+        .discord-activity {
+          width: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="./" aria-label="NS Switch Discord Status home">
+          <img src="./assets/icon.png" alt="" />
+          <span>NS Switch Discord Status</span>
+        </a>
+        <div class="nav-links">
+          <a href="./data/games.json">Game database</a>
+          <span>/</span>
+          <a href="https://github.com/EugeneBachura/NS-Switch-Dsicord-Status">GitHub</a>
+        </div>
+      </nav>
+
+      <section class="hero">
+        <div>
+          <p class="eyebrow">Manual Rich Presence for Switch players</p>
+          <h1>Pick a game. Show it in Discord.</h1>
+          <p class="copy">
+            A tiny desktop app for Nintendo Switch and Nintendo Switch 2 games. You choose a game,
+            press start, and Discord Desktop shows it as your status. Simple, local, and easy to
+            turn off.
+          </p>
+          <div class="actions">
+            <a
+              class="button primary"
+              href="https://github.com/EugeneBachura/NS-Switch-Dsicord-Status/releases/download/v0.1.5/NS.Switch.Discord.Status.Setup.0.1.5.exe"
+            >
+              Download for Windows
+            </a>
+            <a class="button" href="https://github.com/EugeneBachura/NS-Switch-Dsicord-Status">
+              View source
+            </a>
+          </div>
+        </div>
+
+        <div class="status-card" aria-label="App preview">
+          <div class="game-stack">
+              <article class="discord-activity" data-activity="switch2">
+                <div class="activity-top">
+                  <span>Playing</span>
+                  <span class="activity-menu" aria-hidden="true">...</span>
+                </div>
+                <div class="activity-body">
+                  <img
+                    class="activity-cover"
+                    src="./assets/icon.png"
+                    alt=""
+                    width="58"
+                    height="58"
+                  />
+                  <div class="activity-text">
+                    <h2 class="activity-app">Nintendo Switch 2</h2>
+                    <p class="activity-game">Mario Kart World</p>
+                    <span class="activity-time">
+                      <svg viewBox="0 0 24 24" aria-hidden="true">
+                        <path
+                          d="M6.7 5.3C5.5 5.7 4.6 6.8 4.4 8.1l-.7 4.4c-.2 1.5.8 2.9 2.3 3.2.9.2 1.8-.1 2.4-.7l1.1-1.1h5l1.1 1.1c.6.6 1.5.9 2.4.7 1.5-.3 2.5-1.7 2.3-3.2l-.7-4.4c-.2-1.3-1.1-2.4-2.3-2.8-.8-.3-1.7-.2-2.4.3l-.7.4H9.8l-.7-.4c-.7-.5-1.6-.6-2.4-.3Zm1.1 3.2h1.4v1.4h1.4v1.4H9.2v1.4H7.8v-1.4H6.4V9.9h1.4V8.5Zm8.7.1a1 1 0 1 1 0 2 1 1 0 0 1 0-2Zm-2.4 2.4a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"
+                        />
+                      </svg>
+                      <span class="activity-timer">0:00</span>
+                    </span>
+                  </div>
+                </div>
+              </article>
+
+              <article class="discord-activity" data-activity="switch1">
+                <div class="activity-top">
+                  <span>Playing</span>
+                  <span class="activity-menu" aria-hidden="true">...</span>
+                </div>
+                <div class="activity-body">
+                  <img
+                    class="activity-cover"
+                    src="./assets/icon.png"
+                    alt=""
+                    width="58"
+                    height="58"
+                  />
+                  <div class="activity-text">
+                    <h2 class="activity-app">Nintendo Switch</h2>
+                    <p class="activity-game">Pokemon Violet</p>
+                    <span class="activity-time">
+                      <svg viewBox="0 0 24 24" aria-hidden="true">
+                        <path
+                          d="M6.7 5.3C5.5 5.7 4.6 6.8 4.4 8.1l-.7 4.4c-.2 1.5.8 2.9 2.3 3.2.9.2 1.8-.1 2.4-.7l1.1-1.1h5l1.1 1.1c.6.6 1.5.9 2.4.7 1.5-.3 2.5-1.7 2.3-3.2l-.7-4.4c-.2-1.3-1.1-2.4-2.3-2.8-.8-.3-1.7-.2-2.4.3l-.7.4H9.8l-.7-.4c-.7-.5-1.6-.6-2.4-.3Zm1.1 3.2h1.4v1.4h1.4v1.4H9.2v1.4H7.8v-1.4H6.4V9.9h1.4V8.5Zm8.7.1a1 1 0 1 1 0 2 1 1 0 0 1 0-2Zm-2.4 2.4a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"
+                        />
+                      </svg>
+                      <span class="activity-timer">8:12</span>
+                    </span>
+                  </div>
+                </div>
+              </article>
+
+              <article class="discord-activity" data-activity="random">
+                <div class="activity-top">
+                  <span>Playing</span>
+                  <span class="activity-menu" aria-hidden="true">...</span>
+                </div>
+                <div class="activity-body">
+                  <img
+                    class="activity-cover"
+                    src="./assets/icon.png"
+                    alt=""
+                    width="58"
+                    height="58"
+                  />
+                  <div class="activity-text">
+                    <h2 class="activity-app">Nintendo Switch 2</h2>
+                    <p class="activity-game">The Legend of Zelda</p>
+                    <span class="activity-time">
+                      <svg viewBox="0 0 24 24" aria-hidden="true">
+                        <path
+                          d="M6.7 5.3C5.5 5.7 4.6 6.8 4.4 8.1l-.7 4.4c-.2 1.5.8 2.9 2.3 3.2.9.2 1.8-.1 2.4-.7l1.1-1.1h5l1.1 1.1c.6.6 1.5.9 2.4.7 1.5-.3 2.5-1.7 2.3-3.2l-.7-4.4c-.2-1.3-1.1-2.4-2.3-2.8-.8-.3-1.7-.2-2.4.3l-.7.4H9.8l-.7-.4c-.7-.5-1.6-.6-2.4-.3Zm1.1 3.2h1.4v1.4h1.4v1.4H9.2v1.4H7.8v-1.4H6.4V9.9h1.4V8.5Zm8.7.1a1 1 0 1 1 0 2 1 1 0 0 1 0-2Zm-2.4 2.4a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"
+                        />
+                      </svg>
+                      <span class="activity-timer">21:04</span>
+                    </span>
+                  </div>
+                </div>
+              </article>
+            </div>
+
+          <div class="screen-bottom">
+            <span class="pulse">Discord connected</span>
+            <span>Public JSON database</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="features" aria-label="Highlights">
+        <div class="feature">
+          <strong>No login</strong>
+          <span>No Discord or Nintendo account setup needed.</span>
+        </div>
+        <div class="feature">
+          <strong>You stay in control</strong>
+          <span>Pick a game when you want to share it. Pause it when you are done.</span>
+        </div>
+        <div class="feature">
+          <strong>Discord Desktop</strong>
+          <span>Works through Discord Desktop on your computer.</span>
+        </div>
+        <div class="feature">
+          <strong>Open database</strong>
+          <span>Games and covers are loaded from this GitHub Pages site.</span>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <span>Unofficial project. Not affiliated with Nintendo or Discord.</span>
+        <span>Version 0.1.5</span>
+      </footer>
+    </main>
+    <script>
+      const fallbackGames = [
+        {
+          id: "pokemon-violet",
+          title: "Pokemon Violet",
+          platform: "Nintendo Switch",
+          playableOn: ["Nintendo Switch", "Nintendo Switch 2"],
+          coverUrl: "./data/covers/pokemon-violet.webp"
+        },
+        {
+          id: "mario-kart-world",
+          title: "Mario Kart World",
+          platform: "Nintendo Switch 2",
+          playableOn: ["Nintendo Switch 2"],
+          coverUrl: "./data/covers/mario-kart-world.webp"
+        },
+        {
+          id: "the-legend-of-zelda-tears-of-the-kingdom",
+          title: "The Legend of Zelda: Tears of the Kingdom",
+          platform: "Nintendo Switch",
+          playableOn: ["Nintendo Switch", "Nintendo Switch 2"],
+          coverUrl: "./data/covers/the-legend-of-zelda-tears-of-the-kingdom.webp"
+        }
+      ];
+      const activityCards = [
+        {
+          element: document.querySelector('[data-activity="switch2"]'),
+          consoleName: "Nintendo Switch 2",
+          offsetSeconds: 0,
+          filter: (game) => game.platform === "Nintendo Switch 2"
+        },
+        {
+          element: document.querySelector('[data-activity="switch1"]'),
+          consoleName: "Nintendo Switch",
+          offsetSeconds: Math.floor(Math.random() * 2100) + 180,
+          filter: (game) => game.playableOn?.includes("Nintendo Switch")
+        },
+        {
+          element: document.querySelector('[data-activity="random"]'),
+          consoleName: null,
+          offsetSeconds: Math.floor(Math.random() * 3600) + 420,
+          filter: () => true
+        }
+      ];
+      const startedAt = Date.now();
+
+      function formatTime(seconds) {
+        const minutes = Math.floor(seconds / 60);
+        const rest = seconds % 60;
+        return `${minutes}:${rest.toString().padStart(2, "0")}`;
+      }
+
+      function updateTimers() {
+        for (const card of activityCards) {
+          const timer = card.element.querySelector(".activity-timer");
+          const elapsed = Math.floor((Date.now() - startedAt) / 1000) + card.offsetSeconds;
+          timer.textContent = formatTime(elapsed);
+        }
+      }
+
+      function gameKey(game) {
+        return game.id || game.title;
+      }
+
+      function pickGame(games, filter, usedIds) {
+        const preferred = games.filter((game) => filter(game) && !usedIds.has(gameKey(game)));
+        const unused = games.filter((game) => !usedIds.has(gameKey(game)));
+        const filtered = games.filter(filter);
+        const list =
+          preferred.length > 0
+            ? preferred
+            : unused.length > 0
+              ? unused
+              : filtered.length > 0
+                ? filtered
+                : games;
+        return list[Math.floor(Math.random() * list.length)];
+      }
+
+      function useGame(card, game) {
+        const cover = card.element.querySelector(".activity-cover");
+        const app = card.element.querySelector(".activity-app");
+        const title = card.element.querySelector(".activity-game");
+        const consoleName =
+          card.consoleName ||
+          (game.playableOn?.includes("Nintendo Switch 2") ? "Nintendo Switch 2" : game.platform);
+
+        app.textContent = consoleName;
+        title.textContent = game.title;
+        cover.src = game.coverUrl || "./assets/icon.png";
+        cover.onerror = () => {
+          cover.src = "./assets/icon.png";
+        };
+      }
+
+      function useGames(games) {
+        const usedIds = new Set();
+        for (const card of activityCards) {
+          const game = pickGame(games, card.filter, usedIds);
+          usedIds.add(gameKey(game));
+          useGame(card, game);
+        }
+      }
+
+      fetch("./data/games.json")
+        .then((response) => response.json())
+        .then((database) => useGames(database.games || fallbackGames))
+        .catch(() => useGames(fallbackGames));
+
+      updateTimers();
+      setInterval(updateTimers, 1000);
+    </script>
+  </body>
+</html>
