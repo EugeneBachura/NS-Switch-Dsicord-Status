@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-07T07:46:37.845Z",
+  "updatedAt": "2026-06-29T20:29:55.724Z",
   "games": [
     {
       "id": "13-sentinels-aegis-rim",
@@ -1104,6 +1104,25 @@
       "source": null
     },
     {
+      "id": "fire-emblem-fortune-s-weave",
+      "title": "Fire Emblem: Fortune's Weave",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/fire-emblem-fortune-s-weave.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/fire-emblem-fortune-s-weave.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Intelligent Systems",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "fire-emblem-three-houses",
       "title": "Fire Emblem: Three Houses",
       "platform": "Nintendo Switch",
@@ -1733,6 +1752,26 @@
       "developer": "MercurySteam, Nintendo EPD",
       "publisher": "Nintendo",
       "exclusiveStatus": "console_exclusive",
+      "source": null
+    },
+    {
+      "id": "metroid-prime-4-beyond",
+      "title": "Metroid Prime 4: Beyond",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/metroid-prime-4-beyond.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/metroid-prime-4-beyond.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Retro Studios",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
       "source": null
     },
     {
@@ -2461,6 +2500,26 @@
       "source": null
     },
     {
+      "id": "pokemon-legends-z-a",
+      "title": "Pokemon Legends: Z-A",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/pokemon-legends-z-a.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/pokemon-legends-z-a.webp",
+      "smallImageKey": null,
+      "year": 2025,
+      "developer": "Game Freak",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "pokemon-mystery-dungeon-rescue-team-dx",
       "title": "Pokemon Mystery Dungeon: Rescue Team DX",
       "platform": "Nintendo Switch",
@@ -2803,6 +2862,26 @@
       "year": 2025,
       "developer": "Rockstar Games",
       "publisher": "ROCKSTAR GAMES",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "rhythm-heaven-groove",
+      "title": "Rhythm Heaven Groove",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/rhythm-heaven-groove.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/rhythm-heaven-groove.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Nintendo",
+      "publisher": "Nintendo",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -3174,6 +3253,44 @@
       "source": null
     },
     {
+      "id": "splatoon-raiders",
+      "title": "Splatoon Raiders",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/splatoon-raiders.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/splatoon-raiders.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Nintendo",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "star-fox",
+      "title": "Star Fox",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/star-fox.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/star-fox.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Nintendo",
+      "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "stardew-valley",
       "title": "Stardew Valley",
       "platform": "Nintendo Switch",
@@ -3469,6 +3586,25 @@
       "year": 2023,
       "developer": "Monstars",
       "publisher": "Enhance",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "the-duskbloods",
+      "title": "The Duskbloods",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/the-duskbloods.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/the-duskbloods.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "FromSoftware",
+      "publisher": "Nintendo",
       "exclusiveStatus": "unknown",
       "source": null
     },
