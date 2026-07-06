@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T20:29:55.724Z",
+  "updatedAt": "2026-07-04T05:30:52.649Z",
   "games": [
     {
       "id": "13-sentinels-aegis-rim",
@@ -1042,6 +1042,44 @@
       "source": null
     },
     {
+      "id": "final-fantasy-vii-remake-intergrade",
+      "title": "Final Fantasy VII Remake Intergrade",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/final-fantasy-vii-remake-intergrade.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/final-fantasy-vii-remake-intergrade.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Square Enix",
+      "publisher": "Square Enix",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "final-fantasy-xiv-online",
+      "title": "Final Fantasy XIV Online",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/final-fantasy-xiv-online.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/final-fantasy-xiv-online.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Square Enix",
+      "publisher": "Square Enix",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "fire-emblem-engage",
       "title": "Fire Emblem Engage",
       "platform": "Nintendo Switch",
@@ -1203,6 +1241,25 @@
       "year": null,
       "developer": "Kadokawa Games",
       "publisher": "NIS America",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "granblue-fantasy-relink-endless-ragnarok",
+      "title": "Granblue Fantasy: Relink - Endless Ragnarok",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/granblue-fantasy-relink-endless-ragnarok.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/granblue-fantasy-relink-endless-ragnarok.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Cygames",
+      "publisher": "Cygames",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -1911,6 +1968,25 @@
       "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/monster-hunter-stories-2-wings-of-ruin.webp",
       "smallImageKey": null,
       "year": 2025,
+      "developer": "CAPCOM",
+      "publisher": "CAPCOM",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "monster-hunter-stories-3-twisted-reflection",
+      "title": "Monster Hunter Stories 3: Twisted Reflection",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/monster-hunter-stories-3-twisted-reflection.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/monster-hunter-stories-3-twisted-reflection.webp",
+      "smallImageKey": null,
+      "year": 2026,
       "developer": "CAPCOM",
       "publisher": "CAPCOM",
       "exclusiveStatus": "unknown",
@@ -3605,6 +3681,25 @@
       "year": 2026,
       "developer": "FromSoftware",
       "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "the-elder-scrolls-iv-oblivion-remastered",
+      "title": "The Elder Scrolls IV: Oblivion Remastered",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/the-elder-scrolls-iv-oblivion-remastered.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/the-elder-scrolls-iv-oblivion-remastered.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
       "exclusiveStatus": "unknown",
       "source": null
     },
