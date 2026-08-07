@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T05:30:52.649Z",
+  "updatedAt": "2026-08-05T08:42:34.485Z",
   "games": [
     {
       "id": "13-sentinels-aegis-rim",
@@ -290,6 +290,25 @@
       "year": null,
       "developer": "Nintendo",
       "publisher": "Nintendo",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "big-walk",
+      "title": "Big Walk",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/big-walk.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/big-walk.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "House House",
+      "publisher": "Panic",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -675,6 +694,29 @@
       "source": null
     },
     {
+      "id": "digimon-story-time-stranger",
+      "title": "Digimon Story Time Stranger",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Digimon Time Stranger",
+        "Time Stranger"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/digimon-story-time-stranger.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/digimon-story-time-stranger.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Media.Vision",
+      "publisher": "BANDAI NAMCO Entertainment",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
       "id": "digimon-survive",
       "title": "Digimon Survive",
       "platform": "Nintendo Switch",
@@ -691,6 +733,28 @@
       "year": 2022,
       "developer": "HYDE",
       "publisher": "BANDAI NAMCO Entertainment",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "disgaea-mayhem",
+      "title": "Disgaea Mayhem",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Kyouran Makaism"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/disgaea-mayhem.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/disgaea-mayhem.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Nippon Ichi Software",
+      "publisher": "NIS America",
       "exclusiveStatus": "unknown",
       "source": null
     },
@@ -1055,6 +1119,31 @@
       "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/final-fantasy-vii-remake-intergrade.webp",
       "smallImageKey": null,
       "year": 2026,
+      "developer": "Square Enix",
+      "publisher": "Square Enix",
+      "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "final-fantasy-x-x-2-hd-remaster",
+      "title": "FINAL FANTASY X/X-2 HD Remaster",
+      "platform": "Nintendo Switch",
+      "playableOn": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "aliases": [
+        "Final Fantasy X",
+        "Final Fantasy X-2",
+        "FFX",
+        "FFX-2"
+      ],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/final-fantasy-x-x-2-hd-remaster.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/final-fantasy-x-x-2-hd-remaster.webp",
+      "smallImageKey": null,
+      "year": 2019,
       "developer": "Square Enix",
       "publisher": "Square Enix",
       "exclusiveStatus": "unknown",
@@ -2336,6 +2425,25 @@
       "developer": "Koei Tecmo",
       "publisher": "BANDAI NAMCO Entertainment",
       "exclusiveStatus": "unknown",
+      "source": null
+    },
+    {
+      "id": "orbitals",
+      "title": "Orbitals",
+      "platform": "Nintendo Switch 2",
+      "playableOn": [
+        "Nintendo Switch 2"
+      ],
+      "aliases": [],
+      "coverUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/orbitals.webp",
+      "coverDataUri": null,
+      "imageKey": null,
+      "imageUrl": "https://eugenebachura.github.io/NS-Switch-Discord-Status/data/covers/orbitals.webp",
+      "smallImageKey": null,
+      "year": 2026,
+      "developer": "Shapefarm",
+      "publisher": "Kepler Interactive",
+      "exclusiveStatus": "exclusive",
       "source": null
     },
     {
